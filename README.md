@@ -8,10 +8,10 @@
     <a href="linkedin.com/in/banner-rodríguez-858887223" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:joseluisjlgd123@gmail.com">
+    <a href="mailto:rodriguezbanner89@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://github.com/PollitoJLGD123">
+    <a href="https://github.com/BannerAlfredo">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
   </p>
