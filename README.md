@@ -31,9 +31,9 @@ Soy desarrollador web creativo. Me encuentro en el punto ideal donde se intercep
   - Quinto ciclo
   - Desde agosto de 2023 estudio la carrera de Computación e Informática, enfocándome en el desarrollo de software, aplicaciones web y bases de datos. Esta formación me ha permitido complementar mis habilidades creativas con conocimientos técnicos orientados a la creación de soluciones digitales funcionales y eficientes.
     
-- **Ingeniería de Sistemas** - Universidad Nacional de Trujillo (En curso)
-  - Séptimo ciclo
-  - Enfoque en desarrollo de software, ciencia de datos y desarrollo web FullStack.
+- **Diseño Gráfico** - Cibertec de Trujillo (Terminado)
+  - 2021 - 2023
+  - En el año 2021 inicié mis estudios en Diseño Gráfico, donde desarrollé habilidades creativas y visuales, fortaleciendo mi capacidad para comunicar ideas mediante el diseño. Esta etapa fue clave para despertar mi interés por la creación de interfaces atractivas y experiencias visuales orientadas al entorno digital.
 
 ## 🛠️ Habilidades Técnicas
 
