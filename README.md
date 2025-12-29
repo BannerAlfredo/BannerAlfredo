@@ -111,8 +111,9 @@ Soy desarrollador web creativo. Me encuentro en el punto ideal donde se intercep
 | Plataforma | Enlace |
 |------------|--------|
 | **Email** | [rodriguezbanner89@gmail.com](mailto:rodriguezbanner89@gmail.com) |
-| **Linkedin** | [https://www.linkedin.com/in/banner-rodríguez-858887223) |
-| **GitHub** | [@Banner Alfredo](https://github.com/BannerAlfredo) |
+| **LinkedIn** | [linkedin.com/in/banner-rodriguez-858887223](https://www.linkedin.com/in/banner-rodriguez-858887223) |
+| **GitHub** | [BannerAlfredo](https://github.com/BannerAlfredo) |
+| **Portafolio Web** | [https://portafolio-web-banner.vercel.app](https://portafolio-web-banner.vercel.app) |
 
 </div>
 
