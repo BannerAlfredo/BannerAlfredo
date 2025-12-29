@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Sobre Mí
 
-Ingeniero de Sistemas en formación en la Universidad Nacional de Trujillo, actualmente en el séptimo ciclo. Apasionado por el desarrollo de software, con enfoque en soluciones Full Stack y gestión de bases de datos. Mi interés por la inteligencia artificial y la ciencia de datos me ha llevado a desarrollar proyectos innovadores que buscan resolver problemas reales.
+Soy desarrollador web creativo. Me encuentro en el punto ideal donde se interceptan el diseño y el código. Estudiante de Computación e Informática y diseñador gráfico apasionado por crear experiencias digitales funcionales, limpias e innovadoras.
 
 ```
 > Me gusta aprender constantemente nuevas tecnologías para mi desarrollo profesional.
