@@ -14,6 +14,9 @@
     <a href="https://github.com/BannerAlfredo">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
+    <a href="https://portafolio-web-banner.vercel.app">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Internet"/>
+    </a>
   </p>
 </div>
 
