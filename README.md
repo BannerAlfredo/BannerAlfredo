@@ -54,11 +54,14 @@ Soy desarrollador web creativo. Me encuentro en el punto ideal donde se intercep
 
 ## 🚀 Áreas de Especialización
 
-- 💾 Administración y diseño de bases de datos
-- 🌐 Desarrollo web Full Stack
-- 🖥️ Mantenimiento y soporte técnico de equipos
-- 🔌 Configuración de redes básicas
-- 📊 Ciencia de datos y análisis con Python
+- 💾 Desarrollo de software a medida
+- 🌐 Estrategia y Publicidad Digital
+- 🖥️ Diseño y Desarrollo Web
+- 🔌 Sistemas de Gestión Empresarial
+- 📊 Diseño Gráfico y Branding
+- ✅ Automatización de Procesos
+- 🔧 Mantenimiento y Soporte Web
+- 🔍 Optimización y SEO
 
 ## 📂 Proyectos Destacados
 
