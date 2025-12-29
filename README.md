@@ -30,6 +30,10 @@ Soy desarrollador web creativo. Me encuentro en el punto ideal donde se intercep
 - **Ingeniería de Sistemas** - Universidad Nacional de Trujillo (En curso)
   - Séptimo ciclo
   - Enfoque en desarrollo de software, ciencia de datos y desarrollo web FullStack.
+    
+- **Ingeniería de Sistemas** - Universidad Nacional de Trujillo (En curso)
+  - Séptimo ciclo
+  - Enfoque en desarrollo de software, ciencia de datos y desarrollo web FullStack.
 
 ## 🛠️ Habilidades Técnicas
 
