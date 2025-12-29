@@ -84,7 +84,7 @@ Soy desarrollador web creativo. Me encuentro en el punto ideal donde se intercep
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BannerALfredo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BannerAlfredo&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌱 Actualmente Aprendiendo
