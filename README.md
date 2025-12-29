@@ -123,8 +123,7 @@ Soy una persona totalmente optimista, me gusta mejorar el ambiente de trabajo, m
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PollitoJLGD123&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=BannerAlfredo&color=blue" alt="Profile views" />
   
   <p>¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o proyectos interesantes.</p>
 </div>
-```
