@@ -27,9 +27,9 @@ Soy desarrollador web creativo. Me encuentro en el punto ideal donde se intercep
 
 ## 🎓 Formación Académica
 
-- **Ingeniería de Sistemas** - Universidad Nacional de Trujillo (En curso)
-  - Séptimo ciclo
-  - Enfoque en desarrollo de software, ciencia de datos y desarrollo web FullStack.
+- **Computación e Informática** - Cibertec de Trujillo (En curso)
+  - Quinto ciclo
+  - Desde agosto de 2023 estudio la carrera de Computación e Informática, enfocándome en el desarrollo de software, aplicaciones web y bases de datos. Esta formación me ha permitido complementar mis habilidades creativas con conocimientos técnicos orientados a la creación de soluciones digitales funcionales y eficientes.
     
 - **Ingeniería de Sistemas** - Universidad Nacional de Trujillo (En curso)
   - Séptimo ciclo
