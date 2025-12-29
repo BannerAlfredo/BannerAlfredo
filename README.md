@@ -5,7 +5,7 @@
   # Banner Alfredo Cosanotan Rodriguez
 
   <p>
-    <a href="https://www.linkedin.com/in/banner-rodríguez-858887223" target="_blank">
+    <a href="https://www.linkedin.com/in/banner-rodríguez-858887223" target="blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:rodriguezbanner89@gmail.com">
