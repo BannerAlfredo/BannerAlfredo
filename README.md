@@ -116,9 +116,9 @@ Soy desarrollador web creativo. Me encuentro en el punto ideal donde se intercep
 
 </div>
 
-## ⚡ Dato Curioso
+## ⚡ HABILIDADES
 
-Soy una persona totalmente optimista, me gusta mejorar el ambiente de trabajo, mi actitud motivadora es una fortaleza muy grande de mi persona.
+* Pensamiento creativo y lógico * Resolución de problemas * Atención al detalle * Trabajo en equipo * Aprendizaje rápido * Organización y gestión del tiempo * Comunicación efectiva
 
 ---
 
