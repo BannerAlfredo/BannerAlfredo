@@ -110,9 +110,9 @@ Soy desarrollador web creativo. Me encuentro en el punto ideal donde se intercep
   
 | Plataforma | Enlace |
 |------------|--------|
-| **Email** | [joseluisjlgd123@gmail.com](mailto:joseluisjlgd123@gmail.com) |
-| **LinkedIn** | [José Luis Gutiérrez Díaz](https://www.linkedin.com/in/jose-luis-gutierrez-diaz-b06677312/) |
-| **GitHub** | [@PollitoJLGD123](https://github.com/PollitoJLGD123) |
+| **Email** | [rodriguezbanner89@gmail.com](mailto:rodriguezbanner89@gmail.com) |
+| **Linkedin** | [https://www.linkedin.com/in/banner-rodríguez-858887223) |
+| **GitHub** | [@Banner Alfredo](https://github.com/BannerAlfredo) |
 
 </div>
 
