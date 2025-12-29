@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="" alt="Banner Alfredo Cosanotan Rodriguez" width="150" style="border-radius: 50%;"/>
+  <img src="me.png" alt="Banner Alfredo Cosanotan Rodriguez" width="150" style="border-radius: 50%;"/>
   
   # Banner Alfredo Cosanotan Rodriguez
 
